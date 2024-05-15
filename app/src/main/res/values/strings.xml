@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="label_Number1">Enter your login details</string>
+    <string name="label_Number2">Enter your details to signup!</string>
+    <string name="edt_Number1">Username</string>
+    <string name="edt_Number2">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signup">SIGNUP</string>
+    <string name="btn_next">NEXT</string>
+</resources>
